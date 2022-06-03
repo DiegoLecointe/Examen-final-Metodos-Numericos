@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<productAdditionalComps>
+   <dependsOn>
+      <component>
+         <name>Calculadora_TeoremaRolle_ValorMedio</name>
+         <locale/>
+         <platformList>
+            <platform>win64</platform>
+         </platformList>
+         <version>1.0</version>
+      </component>
+   </dependsOn>
+   <isControllingProduct>true</isControllingProduct>
+   <platform>win64</platform>
+   <productName>Calculadora_TeoremaRolle_ValorMedio</productName>
+   <productNumber>5000</productNumber>
+   <productBaseCode>Calculadora_TeoremaRolle_ValorMedio</productBaseCode>
+   <productVersion>1.0</productVersion>
+   <releaseFamily>R2021a</releaseFamily>
+   <releaseDescription>R2021a</releaseDescription>
+</productAdditionalComps>
